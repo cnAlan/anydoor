@@ -1,0 +1,22 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "this is my test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnAlan/anydoor.git"
+  },
+  "author": "Alan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnAlan/anydoor/issues"
+  },
+  "homepage": "https://github.com/cnAlan/anydoor#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
